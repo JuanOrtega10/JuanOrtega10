@@ -25,3 +25,5 @@ Currently shipping products, experiments, and systems that compound.
 ## Focus
 
 I like working at the intersection of product, growth, and engineering, especially when shipping fast means understanding messy systems, automating painful workflows, and turning technical leverage into real user value.
+
+:)

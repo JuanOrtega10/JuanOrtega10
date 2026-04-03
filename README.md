@@ -23,4 +23,4 @@ I like working at the intersection of product, growth, and engineering, especial
 - [she.ships](https://github.com/crafter-station/she.ships): a hackathon for women with 400 participants across 10 countries, see [sheships.org](https://www.sheships.org/)
 - [homi](https://github.com/JuanOrtega10/homi): an agent to find the best deals in the real estate industry
 
-You should also check out [Anthony](https://github.com/cuevaio) and [Railly](https://github.com/railly).
+You should also check out [Anthony](https://github.com/cuevaio), [Railly](https://github.com/railly), and [Cris](https://github.com/camilocbarrera).

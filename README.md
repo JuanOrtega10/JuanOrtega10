@@ -1,29 +1,23 @@
-# Juan Ortega
+### Hello there!
 
-Engineer building products people love.
+I'm Juan, an engineer building products people love ❤️
 
-Currently shipping products, experiments, and systems that compound.
+Currently building [Visagente](https://visagente.com/), helping people reduce their USA visa interview wait time.
 
-## What I'm Doing
+At the moment, Visagente is at `$1.5k MRR`.
 
-- Building [visagente.com](https://visagente.com/) to help people reduce their USA visa interview wait time
-- Growing Visagente to `$1.5k MRR`
-- Working at Gordian Software on reverse engineering and web scraping across aerospace company websites
-- Building with the [Crafter Station](https://crafterstation.com/) team
+I work at Gordian Software, where I do a lot of reverse engineering and web scraping across aerospace company websites.
 
-## Background
+Previously at AWS.
 
-- Open source contributor
-- Hackathon enthusiast and winner
-- Ex-AWS
+Also building with the team at [Crafter Station](https://crafterstation.com/).
 
-## Find Me Around
+Open source contributor.
 
-- Check out [Anthony](https://github.com/cuevaio)
-- Check out [Railly](https://github.com/railly)
+Hackathon enthusiast and winner.
 
 ## Focus
 
 I like working at the intersection of product, growth, and engineering, especially when shipping fast means understanding messy systems, automating painful workflows, and turning technical leverage into real user value.
 
-:)
+You should also check out [Anthony](https://github.com/cuevaio) and [Railly](https://github.com/railly).

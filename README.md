@@ -2,6 +2,8 @@
 
 Engineer building products people love.
 
+Currently shipping products, experiments, and systems that compound.
+
 ## What I'm Doing
 
 - Building [visagente.com](https://visagente.com/) to help people reduce their USA visa interview wait time

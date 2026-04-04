@@ -21,6 +21,6 @@ I like working at the intersection of product, growth, and engineering, especial
 - [Visagente](https://visagente.com/): reducing USA visa interview wait times, currently at `$1.1k MRR`
 - [Cadence](https://github.com/crafter-station/cadence): a tool to optimize agentic systems running batches of agents in parallel, acquired by [Dapta](https://dapta.ai/)
 - [she.ships](https://github.com/crafter-station/she.ships): a hackathon for women with 400 participants across 10 countries, see [sheships.org](https://www.sheships.org/)
-- [homi](https://homi-plum.vercel.app/): an agent to find the best deals in the real estate industry
+- [homi](https://www.homiapp.xyz/): an agent to find the best deals in the real estate industry
 
 You should also check out [Anthony](https://github.com/cuevaio), [Railly](https://github.com/railly), and [Cris](https://github.com/camilocbarrera).
